@@ -3,9 +3,8 @@ body{
 	background-color: #f5f5f5;
 }
 header{
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	text-align: center;
+	padding: 15px auto;
 	height: 70px;
 	background-color: #011e29;
 }
